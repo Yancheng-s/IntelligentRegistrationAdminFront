@@ -5,11 +5,9 @@
 
 智能挂号项目分别放在三个代码仓库：
 
-1.用户端网页代码仓库： https://gitee.com/garveyer/intelligent-registration-user-front
-
-2.管理员端网页代码仓库： https://gitee.com/garveyer/intelligent-registration-admin-front
-
-3.后端代码仓库： https://gitee.com/garveyer/IntelligentRegistrationBack
+1.用户端网页代码仓库： https://github.com/Yancheng-s/IntelligentRegistrationUserFront
+2.管理员端网页代码仓库： https://github.com/Yancheng-s/IntelligentRegistrationAdminFront
+3.后端代码仓库： https://github.com/Yancheng-s/IntelligentRegistrationBack
 
 ### 项目特色
 - 🚀 开箱即用的医院管理模板  
